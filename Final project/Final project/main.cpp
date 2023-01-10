@@ -10,8 +10,8 @@
 
 using namespace std;
 
-//string file = "/Users/zeyadhassan/Desktop/hamoud habibi.mp3";
-//string command = "afplay "+file+" &>/dev/null &";
+
+
 
 
 
